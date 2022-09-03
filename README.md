@@ -1,10 +1,12 @@
 <h3 align="center">
-	<img alt="logo Netflix" title="logo" src="./assets/github/logo.png"/>
+	<img height="100px" alt="logo Calculadora" title="logo" src="/assets/images/logo.png"/>
 </h3>
 
+
 <p align="center">
-  <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFcaspirro%2Fcalculadora-light-and-dark-mode&countColor=%23dce775"/>
+  <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFcaspirro%2Fcalculadora-light-and-dark-mode&countColor=%2337d67a&style=flat"/>
 </p>
+
 
 <h5 align="center"> 
   <b>✅ Finalizado | <i>Finished ✅</i></b>
@@ -17,8 +19,8 @@
 </h2> 
 
  <div align="center" inline >
-    <img height="300px"  alt="Demo Gif" title="demo" src="./assets/github/demo-light.gif"/> 
-    <img height="300px"  alt="Demo Gif" title="demo" src="./assets/github/demo-dark.gif"/> 
+    <img height="375px"  alt="Demo Gif" title="demo" src="/assets/github/demo-light-mode.gif"/> 
+    <img height="375px"  alt="Demo Gif" title="demo" src="/assets/github/demo-dark-mode.gif"/> 
 </div>
 
 ---
